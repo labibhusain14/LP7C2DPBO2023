@@ -6,3 +6,5 @@ Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara har
 ## *Dokumentasi*
 
 ### Start
+![2023-04-23-07-53-08](https://user-images.githubusercontent.com/119772365/233813778-69c42d61-3bd6-4854-bae9-dad547de295e.gif)
+
