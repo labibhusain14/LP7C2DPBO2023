@@ -4,5 +4,5 @@
 ## *Soal*
 Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara hardcode. Nahh, modifikasi skor nya sehingga ketika ganti tombol yang dipencet, skornya selalu bertambah.Misal, posisi sekarang 0. Pencet W, tambah 1. Jadi satu, berhenti. Pencet D, tambah satu. Jadi 2, berhenti. Pencet apapun lagi asal WASD, tambah satu. Jadi 3. dst.
 ## *Dokumentasi*
-![2023-04-23-07-53-08](https://user-images.githubusercontent.com/119772365/233813778-69c42d61-3bd6-4854-bae9-dad547de295e.gif)
+![2023-04-25 23-25-56](https://user-images.githubusercontent.com/119772365/234345864-6787d940-20e9-48e8-9fb7-f90632de4755.gif)
 
